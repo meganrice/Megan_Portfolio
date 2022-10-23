@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Megan Rice</title>
+    <link>https://meganrice.github.io/Megan_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Megan Rice</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Apr 2017 11:13:32 -0400</lastBuildDate><atom:link href="https://meganrice.github.io/Megan_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III: Project Title</title>
+      <link>https://meganrice.github.io/Megan_Portfolio/post/project-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://meganrice.github.io/Megan_Portfolio/post/project-3/</guid>
+      <description>Project Description</description>
+    </item>
+    
+    <item>
+      <title>Project II: Project Title</title>
+      <link>https://meganrice.github.io/Megan_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://meganrice.github.io/Megan_Portfolio/post/project-2/</guid>
+      <description>Project Description</description>
+    </item>
+    
+    <item>
+      <title>Project I: Project Title</title>
+      <link>https://meganrice.github.io/Megan_Portfolio/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://meganrice.github.io/Megan_Portfolio/post/project-1/</guid>
+      <description>Project Description Here</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://meganrice.github.io/Megan_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meganrice.github.io/Megan_Portfolio/about/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://meganrice.github.io/Megan_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meganrice.github.io/Megan_Portfolio/contact/</guid>
+      <description>Connect with me!
+LinkedIn: URL</description>
+    </item>
+    
+  </channel>
+</rss>
